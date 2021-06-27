@@ -2,7 +2,7 @@
 
 A Single-Cycle MIPS Processor with a limited instruction set created throughout UNC's Digital Logic course. Designed on a NEXYS 4 FPGA, it can handle most standard MIPS instructions with some exceptions such as jal, jr, lui, etc. 
 
-It comes with reset but no error handling capabilities. All written in SystemVerilog with functionality demonstrated via an ASM program written to mimic Pong. The Pong program, a soccer version featuring Chelsea and Manchester United, was compiled from ASM into hex memory .mem files as instructions for the CPU to read in and execute.
+It comes with reset and some I/O but no error handling capabilities. All written in SystemVerilog with functionality demonstrated via an ASM program written to mimic Pong. The Pong program, a soccer version featuring Chelsea and Manchester United, was compiled from ASM into hex memory .mem files as instructions for the CPU to read in and execute.
 
 
 
