@@ -13,3 +13,5 @@ A low detail top-level graphic of the architecture:
 A high detail top-level graphic of the architecture:
 
 <img width="1426" alt="High Level Top Display" src="https://user-images.githubusercontent.com/25047954/123528824-e76dee80-d6b8-11eb-93fd-7678b90a9d57.png">
+
+&copy; 2021 [Will](https://github.com/WillBerner)
